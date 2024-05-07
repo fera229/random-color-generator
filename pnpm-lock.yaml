@@ -16,6 +16,9 @@ devDependencies:
   '@types/node':
     specifier: ^20.12.10
     version: 20.12.10
+  '@types/randomcolor':
+    specifier: ^0.5.9
+    version: 0.5.9
   eslint-config-upleveled:
     specifier: ^8.1.0
     version: 8.1.0(@babel/core@7.24.5)(@types/eslint@8.56.10)(@types/node@20.12.10)(@types/react-dom@18.3.0)(@types/react@18.3.1)(eslint@8.57.0)(globals@15.1.0)(typescript@5.4.5)
@@ -419,6 +422,10 @@ packages:
 
   /@types/prop-types@15.7.12:
     resolution: {integrity: sha512-5zvhXYtRNRluoE/jAp4GVsSduVUzNWKkOZrCDBWYtE7biZywwdC2AcEzg+cSMLFRfVgeAFqpfNabiPjxFddV1Q==}
+    dev: true
+
+  /@types/randomcolor@0.5.9:
+    resolution: {integrity: sha512-k58cfpkK15AKn1m+oRd9nh5BnuiowhbyvBBdAzcddtARMr3xRzP0VlFaAKovSG6N6Knx08EicjPlOMzDejerrQ==}
     dev: true
 
   /@types/react-dom@18.3.0:
